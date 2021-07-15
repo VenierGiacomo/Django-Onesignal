@@ -10,7 +10,7 @@ Table of Contents
 
 -  `Example Usage <#example-usage>`__
 
--  `Example Usage Future notification <#example-usage-future-notificaiton>`__
+-  `Example Usage Future Notification <#example-usage-future-notificaiton>`__
 Installation
 ------------
 
@@ -50,7 +50,7 @@ You can think this library as a wrapper around OneSignal REST API. It is fairly 
     print(response.body)
 
 
- Example Usage Future Notification
+Example Usage Future Notification
 -------------------
 
 
