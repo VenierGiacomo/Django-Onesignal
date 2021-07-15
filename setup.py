@@ -11,7 +11,7 @@ classifiers = [
 setup(
   name='django-onesignal',
   version='1.0.0',
-  description='An interface to send push notification (monile and web) from Django',
+  description='An interface to send push notification (both mobile and web) from Django using',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
   author='Giacomo Venie',
