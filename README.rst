@@ -17,7 +17,7 @@ Installation
 
 ::
 
-    pip install django-onesignal
+    pip install onesignal-django
 
 Example Usage
 -------------
