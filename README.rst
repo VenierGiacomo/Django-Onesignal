@@ -24,9 +24,9 @@ Example Usage
 You can think this library as a wrapper around OneSignal REST API. It is fairly simple to use:
 
 - Create an instance of **OnesignalClient():**. 
-- Setup your credentianl with the **set_app_id** method (`rest_api_key` is not required but necessary for some API calls).
-- Build your request body with ****and call related method on the client.
-- Client will make the request with required authentication headers and parse the response for you.
+- Setup your credentianl with the **set_app_id()** method (`rest_api_key` is not required but necessary for some API calls).
+- Build your request body with the **create_message()** method.
+- Once ready send the push notification with the **send_message()** method.
 
 .. code:: python
 
