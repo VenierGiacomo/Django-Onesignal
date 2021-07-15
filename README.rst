@@ -51,7 +51,7 @@ You can think this library as a wrapper around OneSignal REST API. It is fairly 
 
 
 Example Usage Future Notification
--------------------
+---------------------------------
 
 
 In this example we use the **create_future_message()** methond. It requires the date on which the message will be sent
