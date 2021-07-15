@@ -10,7 +10,7 @@ Table of Contents
 
 -  `Example Usage <#example-usage>`__
 
--  `Example Usage Future Notification <#example-usage-future-notificaiton>`__
+-  `Example Usage Future Notification <#example-usage-future-notification>`__
 
 Installation
 ------------
